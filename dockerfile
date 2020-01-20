@@ -1,3 +1,3 @@
 FROM httpd
 MAINTAINER Giridhar
-COPY . /var/www/html/
+COPY * /var/www/html/
